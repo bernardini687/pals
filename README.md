@@ -7,7 +7,9 @@
 # pals
 _keep in touch with friends_
 
-this simple tool is designed to tell you about friends you don't hear from a while.
+this simple tool is designed to tell you about friends you don't hear from for a while.
+
+![](preview.gif)
 
 # install
 install globally via:
